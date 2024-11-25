@@ -1,17 +1,12 @@
-﻿// Program to swap variables without using a temporary variable
+﻿using NetAssignments;
+using System;
+
 internal class Program
 {
     private static void Main(string[] args)
     {
-        int a = 10;
-        int b = 20;
-        Console.WriteLine($"Before Swapping a = {a} and b = {b}");
+        Loops loopsDemo = new Loops();
 
-        a = a + b;
-        b = a - b;
-        a = a - b;
-
-        Console.WriteLine($"Before Swapping a = {a} and b = {b}");
-
+        Swap swapDemo = new Swap();
     }
 }
