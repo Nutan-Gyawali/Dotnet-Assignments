@@ -1,0 +1,14 @@
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\bin\Debug\net8.0\NetAssignments.exe
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\bin\Debug\net8.0\NetAssignments.deps.json
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\bin\Debug\net8.0\NetAssignments.runtimeconfig.json
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\bin\Debug\net8.0\NetAssignments.dll
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\bin\Debug\net8.0\NetAssignments.pdb
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\obj\Debug\net8.0\NetAssignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\obj\Debug\net8.0\NetAssignments.AssemblyInfoInputs.cache
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\obj\Debug\net8.0\NetAssignments.AssemblyInfo.cs
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\obj\Debug\net8.0\NetAssignments.csproj.CoreCompileInputs.cache
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\obj\Debug\net8.0\NetAssignments.dll
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\obj\Debug\net8.0\refint\NetAssignments.dll
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\obj\Debug\net8.0\NetAssignments.pdb
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\obj\Debug\net8.0\NetAssignments.genruntimeconfig.cache
+D:\Dotnet\bin\Debug\net8.0\NetAssignments\NetAssignments\obj\Debug\net8.0\ref\NetAssignments.dll
